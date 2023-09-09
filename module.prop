@@ -1,7 +1,6 @@
-id=inter-font
-name=Inter Font Pack
-version=v3.19.1
-versionCode=31901
-author=kdrag0n
+id=inter-font-mod
+name=Inter Font with Roboto Mono
+version=v1.0.0
+versionCode=100
+author=soracat
 description=Font pack that replaces the system fonts with Inter (sans-serif), Fira Code (monospace), and Source Serif Pro (serif).
-support=https://t.me/proton_projects
